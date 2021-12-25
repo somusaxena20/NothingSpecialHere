@@ -1,1 +1,1 @@
-it was my first commit.
+it was my first commit inside second branch.
